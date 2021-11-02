@@ -1,4 +1,5 @@
-- 👋 Hi there, I’m @roneemedhi 
+**👋 Hi there, I’m Ronee (@roneemedhi)**
+
 - At times you might come across my profile as "the Product Guy"
 - 👀 I’m interested in introducing something fascinating (a Product) into the world of computer coding!
 - 🌱Currently learning to create and build my own web app just within few mins with low-code simplicity or, without any code
