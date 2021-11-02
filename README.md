@@ -14,7 +14,6 @@
   
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@roneemedhi/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@roneemedhi/1" alt="Recent Article 1">
   
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
 
 <!---
 roneemedhi/roneemedhi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
