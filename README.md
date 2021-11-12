@@ -12,7 +12,7 @@ A big product enthusiast who is focused on
   
 [![Github stats](https://github-readme-stats.vercel.app/api?username=roneemedhi&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/roneemedhi/)
 
-[![Blog Posts]]
+**Blog Posts**
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@roneemedhi/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@roneemedhi/0" alt="Recent Article 0">
   
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@roneemedhi/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@roneemedhi/1" alt="Recent Article 1">
