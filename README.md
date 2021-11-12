@@ -1,4 +1,4 @@
-**👋 Hi there, I’m Ronee (@roneemedhi)**
+**👋 Hi there, I’m Ronee (@roneemedhi)*
 
 A big product enthusiast who is focused on 
 
