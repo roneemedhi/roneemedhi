@@ -1,4 +1,4 @@
-[![Header](https://github.com/roneemedhi/roneemedhi/blob/main/readme_header.gif "Header")](ttp://roneemedhi.wixsite.com/website)
+[![Header](https://github.com/roneemedhi/roneemedhi/blob/main/readme_header.gif "Header")](http://roneemedhi.wixsite.com/website)
 
 **👋 Hi there, I’m Ronee (@roneemedhi)**
 
