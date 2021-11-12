@@ -20,7 +20,6 @@ A big product enthusiast who is focused on
   
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@roneemedhi/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@roneemedhi/1" alt="Recent Article 1">
 
-<a target="_blank" href="https://roneemedhi.medium.com/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@roneemedhi/2" alt="Recent Article 2">
   
 
 <!---
