@@ -1,8 +1,10 @@
 **👋 Hi there, I’m Ronee (@roneemedhi)**
 
-- 🔍 I love to research and find ways to add value in a product with certain hypothsis
-- 👀 I’m interested in introducing a fascinating product idea into the digital world!
-- 🌱 I’m currently learning to create and build my own web app just within few mins with low-code simplicity or, without any code
+A big product enthusiast who is focused on 
+
+- 🔍 researching and finding ways to add value in a product with certain hypothsis
+- 👀 introducing a fascinating product idea into the digital world!
+- 🌱 learning to create and build my own web app just within few mins with low-code simplicity or, without any code
 - 📫 You can follow me or, give some ♥ here:
   - 💡 Medium articles: https://roneemedhi.medium.com/ 
   - 🏢 Linkedin: https://www.linkedin.com/in/roneemedhi/
