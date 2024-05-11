@@ -11,7 +11,7 @@ A big product enthusiast who is focused on
 - 📫 You can follow me or, give some ♥ @:
   - 💡 Medium articles: https://roneemedhi.medium.com/ 
   - 🏢 Linkedin: https://www.linkedin.com/in/roneemedhi/
-  - 🌐 Personal website: http://roneemedhi.wixsite.com/website
+  - 🌐 Personal website: https://roneemedhi9.wixsite.com/my-portfolio
   
 [![Github stats](https://github-readme-stats.vercel.app/api?username=roneemedhi&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/roneemedhi/)
 
